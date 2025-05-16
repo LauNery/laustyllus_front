@@ -30,7 +30,7 @@ Levar estilo e elegância até você com uma experiência de compra simples e ag
 - ℹ️ Sobre Nós
 - ✉️ Contato
 
-🌟 Design limpo, responsivo e feito para valorizar sua beleza!
+🌟 Design sofisticado para realçar e valorizar sua beleza!
 
 ---
 
