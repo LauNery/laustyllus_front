@@ -17,12 +17,12 @@ Levar estilo e elegância até você com uma experiência de compra simples e ag
 
 🎯 **Produtos Mais Vendidos por Categorias:**
 
-| Categoria             | Ícone                     | Destaque                                              |
-|-----------------------|---------------------------|--------------------------------------------------------|
-| 👚 Blusas & Camisas  | ![imagem](assets/img/blusas.jpg) | Looks femininos para todas as ocasiões               |
-| 👖 Calças           | ![imagem](assets/img/calcas.jpg)  | Conforto e estilo no seu dia a dia                   |
-| 👗 Vestidos         | ![imagem](assets/img/vestidos.jpg)| Elegância que faz você brilhar                       |
-| 🏃 Moda Esportiva   | ![imagem](assets/img/moda-esportiva.jpg)| Praticidade com muito estilo                        |
+| Categoria             
+|-----------------------
+| 👚 Blusas & Camisas  
+| 👖 Calças           
+| 👗 Vestidos         
+| 🏃 Moda Esportiva   
 
 🛒 **Carrinho de Compras:** Interface pronta para futuras funcionalidades dinâmicas.
 
