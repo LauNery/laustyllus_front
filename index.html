@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Loja de Roupas Lau Styllus</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header>
+    <h1>Loja Lau Styllus</h1>
+    <nav>
+      <ul>
+        <li><a href="#produtos">Produtos</a></li>
+        <li><a href="#sobre">Sobre Nós</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="produtos">
+      <h2>Produtos mais vendidos</h2>
+
+      <div class="filtros">
+        <button type="button" class="filtro-btn" data-categoria="todos">Todos</button>
+        <button type="button" class="filtro-btn" data-categoria="blusas">Blusas & Camisas</button>
+        <button type="button" class="filtro-btn" data-categoria="calcas">Calças</button>
+        <button type="button" class="filtro-btn" data-categoria="vestidos">Vestidos</button>
+        <button type="button" class="filtro-btn" data-categoria="esportiva">Moda Esportiva</button>
+      </div>
+
+      <!-- Blusas -->
+      <section class="categoria blusas">
+        <h3>Blusas & Camisas</h3>
+        <div class="produtos-container">
+          <div class="produto">
+            <img src="assets/img/camisa-roxa.jpeg" alt="Camisa Roxa" />
+            <h3>Camisa Roxa</h3>
+            <p>R$ 119,90</p>
+            <button data-nome="Camisa Roxa" data-preco="119.90">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/blusa-estampada-verde.jpg" alt="Blusa Estampada Verde" />
+            <h3>Blusa Estampada Verde</h3>
+            <p>R$ 129,99</p>
+            <button data-nome="Blusa Estampada Verde" data-preco="129.99">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/blusa-under-vermelho.jpg" alt="Blusa Under Seamless Vermelho" />
+            <h3>Blusa Under Seamless Vermelho</h3>
+            <p>R$ 69,99</p>
+            <button data-nome="Blusa Under Seamless Vermelho" data-preco="69.99">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Calças -->
+      <section class="categoria calcas">
+        <h3>Calças</h3>
+        <div class="produtos-container">
+          <div class="produto">
+            <img src="assets/img/calca-alfaiataria-preta.jpg" alt="Calça Alfaiataria Preta" />
+            <h3>Calça Alfaiataria Preta</h3>
+            <p>R$ 349,99</p>
+            <button data-nome="Calça Alfaiataria Preta" data-preco="349.99">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/calca-contrastes-marrom.jpg" alt="Calça Contrastes Marrom" />
+            <h3>Calça Contrastes Marrom</h3>
+            <p>R$ 200,00</p>
+            <button data-nome="Calça Contrastes Marrom" data-preco="200.00">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/calca-sarja-prata.jpg" alt="Calça Sarja Prata" />
+            <h3>Calça Sarja Prata</h3>
+            <p>R$ 499,00</p>
+            <button data-nome="Calça Sarja Prata" data-preco="499.00">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Vestidos -->
+      <section class="categoria vestidos">
+        <h3>Vestidos</h3>
+        <div class="produtos-container">
+          <div class="produto">
+            <img src="assets/img/vestido-amarelo.jpg" alt="Vestido Amarelo" />
+            <h3>Vestido Amarelo</h3>
+            <p>R$ 750,41</p>
+            <button data-nome="Vestido Amarelo" data-preco="750.41">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/vestido-folhagem.jpg" alt="Vestido Estampado Folhagem Longo" />
+            <h3>Vestido Estampado Folhagem Longo</h3>
+            <p>R$ 239,90</p>
+            <button data-nome="Vestido Estampado Folhagem Longo" data-preco="239.90">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/vestido-flower.jpg" alt="Vestido Bordado Flower" />
+            <h3>Vestido Bordado Flower</h3>
+            <p>R$ 249,99</p>
+            <button data-nome="Vestido Bordado Flower" data-preco="249.99">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/vestido-marias-rosa.jpg" alt="Vestido Fino Marias Rosa" />
+            <h3>Vestido Fino Marias Rosa</h3>
+            <p>R$ 159,99</p>
+            <button data-nome="Vestido Fino Marias Rosa" data-preco="159.99">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+      </section>
+
+      <!-- Esportiva -->
+      <section class="categoria esportiva">
+        <h3>Moda Esportiva</h3>
+        <div class="produtos-container">
+          <div class="produto">
+            <img src="assets/img/camiseta-esportiva.jpg" alt="Camiseta Esportiva" />
+            <h3>Camiseta Esportiva</h3>
+            <p>R$ 79,90</p>
+            <button data-nome="Camiseta Esportiva" data-preco="79.90">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/casaco-powercool.jpg" alt="Casaco Powercool" />
+            <h3>Casaco Powercool</h3>
+            <p>R$ 359,90</p>
+            <button data-nome="Casaco Powercool" data-preco="359.90">Adicionar ao Carrinho</button>
+          </div>
+          <div class="produto">
+            <img src="assets/img/casaco-feeling.jpg" alt="Casaco Feeling" />
+            <h3>Casaco Feeling</h3>
+            <p>R$ 529,90</p>
+            <button data-nome="Casaco Feeling" data-preco="529.90">Adicionar ao Carrinho</button>
+          </div>
+        </div>
+      </section>
+    </section>
+
+    <section id="carrinho">
+      <h2>Carrinho de Compras</h2>
+      <div id="carrinho-itens"></div>
+      <p>Total: R$ <span id="total">0,00</span></p>
+      <button id="finalizar">Finalizar Compra</button>
+    </section>
+
+    <section id="sobre">
+      <h2>Sobre Nós</h2>
+      <p>Somos uma loja referência no mercado da moda por oferecer as melhores roupas com tecidos de qualidade e para todos os estilos.</p>
+    </section>
+
+    <section id="contato">
+      <h2>Contato</h2>
+      <p>Email: contato@lojalaustyllus.com.br</p>
+      <p>Telefone: (11) 94893-8928</p>
+    </section>
+  </main>
+
+  <footer>
+    &copy; 2025 Loja de Roupas Lau Styllus
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
