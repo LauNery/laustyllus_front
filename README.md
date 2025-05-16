@@ -52,7 +52,7 @@ Levar estilo e elegância até você com uma experiência de compra simples e ag
 ## ❤️ Feito por Laura Nery ❤️
 
 
-Agradecemos sua visita! Esperamos que encontre o look perfeito conosco. ✨👗✨
+Agradecemos sua visita! Esperamos que encontre o look perfeito! ✨👗✨
 
 ---
 
