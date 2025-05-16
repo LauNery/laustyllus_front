@@ -9,7 +9,7 @@
 Criamos a **Lau Styllus** com muito amor usando **HTML** , **CSS** e **JAVASCRIPT**, garantindo um site moderno e fácil de navegar.
 Levar estilo e elegância até você com uma experiência de compra simples e agradável.
 
-> *E prepare-se: em breve, vamos deixar tudo ainda mais interativo com funcionalidades incríveis em JavaScript!*
+> *A moda é a manifestação visível da alma, onde estilo e elegância se encontram em uma dança cheia de harmonia.*
 
 ---
 
