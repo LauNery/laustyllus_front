@@ -24,7 +24,7 @@ Levar estilo e elegância até você com uma experiência de compra simples e ag
 | 👗 Vestidos         
 | 🏃 Moda Esportiva   
 
-🛒 **Carrinho de Compras:** Interface pronta para futuras funcionalidades dinâmicas.
+🛒 **Carrinho de Compras:** 
 
 📄 **Seções Institucionais:**
 - ℹ️ Sobre Nós
