@@ -1,6 +1,6 @@
 # ✨🌟 Loja de Roupas - Lau Styllus 🌟✨
 
-**A Lau Styllus** é o seu destino online para moda feminina sofisticada, moderna e cheia de personalidade. Cada detalhe foi pensado para você se sentir única e linda em qualquer ocasião!
+**A Lau Styllus** é uma plataforma online para moda feminina sofisticada, moderna e cheia de personalidade. Cada detalhe foi pensado para você se sentir única e linda em qualquer ocasião!
 
 ---
 
