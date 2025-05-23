@@ -1,0 +1,41 @@
+.fundoLogin {
+    background-image: url("/src/assets/loja-de-roupas.jpg");
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+}
+
+body {
+    background-color: #e5e7eb; 
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: #6b21a8; 
+}
+
+input {
+    border-color: #6b21a8; 
+    color: #1e1e1e; 
+    background-color: #d1d5db;
+}
+
+button {
+    background-color: #facc15; 
+    color: #4c1d95; 
+}
+
+button:hover {
+    background-color: #fde047; 
+    color: #4c1d95; 
+}
+
+hr {
+    border-color: #d1d5db; 
+}
+
+p {
+    color: #facc15; 
+}
