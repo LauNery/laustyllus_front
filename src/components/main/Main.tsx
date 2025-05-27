@@ -36,7 +36,7 @@ const Main: React.FC = () => {
       id: "calcas",
       titulo: "Calças",
       produtos: [
-        { nome: "Calça Alfaiataria Preta", preco: 349.99, imagem: "./assets/img/calca-alfaiataria-preta.jpg" },
+        { nome: "Calça Alfaiataria Preta", preco: 349.99, imagem: "/assets/img/calca-alfaiataria-preta.jpg" },
         { nome: "Calça Contrastes Marrom", preco: 200.00, imagem: "./assets/img/calca-contrastes-marrom.jpg" },
         { nome: "Calça Sarja Prata", preco: 499.00, imagem: "./assets/img/calca-sarja-prata.jpg" },
         { nome: "Calça Cintura Alta Vermelho Anos 90", preco: 279.99, imagem: "./assets/img/calca-cintura-alta-vermelho.jpg" },
